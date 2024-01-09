@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-09T11:40:56 IST" name="Suite" finished-at="2024-01-09T11:41:59 IST" duration-ms="62844">
+    <groups>
+    </groups>
+    <test started-at="2024-01-09T11:40:56 IST" name="Maps Test" finished-at="2024-01-09T11:41:59 IST" duration-ms="62844">
+      <class name="UIAutomation.SeleniumFrameworkDesign.MapsTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:UIAutomation.SeleniumFrameworkDesign.MapsTest@61544ae6]" started-at="2024-01-09T11:40:56 IST" name="launchBrowser" finished-at="2024-01-09T11:41:04 IST" duration-ms="7978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="assetDetailsVerificationTest(java.util.HashMap)[pri:1, instance:UIAutomation.SeleniumFrameworkDesign.MapsTest@61544ae6]" started-at="2024-01-09T11:41:04 IST" name="assetDetailsVerificationTest" data-provider="getData" finished-at="2024-01-09T11:41:42 IST" duration-ms="37444" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{gpsdevicetype=RDL 4G, vinValue=VF610A360JD010167, password=Conti@2023, gpsid=860264050857805, asset=ER-102-HK, licenseplate=ER-102-HK, homelocation=Valleroy, email=patrice.berthe+vuillaume@continental.com, account=TRANSPORT VUILLAUME}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assetDetailsVerificationTest -->
+        <test-method signature="driverDetailsVerificationTest()[pri:2, instance:UIAutomation.SeleniumFrameworkDesign.MapsTest@61544ae6]" started-at="2024-01-09T11:41:42 IST" name="driverDetailsVerificationTest" finished-at="2024-01-09T11:41:42 IST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverDetailsVerificationTest -->
+        <test-method signature="addressLocationLinkTest()[pri:3, instance:UIAutomation.SeleniumFrameworkDesign.MapsTest@61544ae6]" started-at="2024-01-09T11:41:42 IST" name="addressLocationLinkTest" finished-at="2024-01-09T11:41:45 IST" duration-ms="2908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addressLocationLinkTest -->
+        <test-method signature="driverAvailabilityWidgetTest()[pri:4, instance:UIAutomation.SeleniumFrameworkDesign.MapsTest@61544ae6]" started-at="2024-01-09T11:41:45 IST" name="driverAvailabilityWidgetTest" finished-at="2024-01-09T11:41:45 IST" duration-ms="471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverAvailabilityWidgetTest -->
+        <test-method signature="findNearByAssetsFeatureTest()[pri:5, instance:UIAutomation.SeleniumFrameworkDesign.MapsTest@61544ae6]" started-at="2024-01-09T11:41:45 IST" name="findNearByAssetsFeatureTest" finished-at="2024-01-09T11:41:49 IST" duration-ms="3605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findNearByAssetsFeatureTest -->
+        <test-method signature="historyDetailsOfTheAssetTest(java.util.HashMap)[pri:6, instance:UIAutomation.SeleniumFrameworkDesign.MapsTest@61544ae6]" started-at="2024-01-09T11:41:49 IST" name="historyDetailsOfTheAssetTest" data-provider="getData" finished-at="2024-01-09T11:41:58 IST" duration-ms="9537" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{gpsdevicetype=RDL 4G, vinValue=VF610A360JD010167, password=Conti@2023, gpsid=860264050857805, asset=ER-102-HK, licenseplate=ER-102-HK, homelocation=Valleroy, email=patrice.berthe+vuillaume@continental.com, account=TRANSPORT VUILLAUME}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- historyDetailsOfTheAssetTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:UIAutomation.SeleniumFrameworkDesign.MapsTest@61544ae6]" started-at="2024-01-09T11:41:58 IST" name="tearDown" finished-at="2024-01-09T11:41:59 IST" duration-ms="549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- UIAutomation.SeleniumFrameworkDesign.MapsTest -->
+    </test> <!-- Maps Test -->
+  </suite> <!-- Suite -->
+</testng-results>

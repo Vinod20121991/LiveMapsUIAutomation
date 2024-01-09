@@ -1,0 +1,6 @@
+UIAutomation\SeleniumFrameworkDesign\AssetListPage.class
+Utility\GenericFunctions.class
+Resources\ExtentReportNG.class
+UIAutomation\SeleniumFrameworkDesign\AssetDetailsPage.class
+UIAutomation\SeleniumFrameworkDesign\VDOFleetHomePage.class
+UIAutomation\SeleniumFrameworkDesign\MapsLandingPage.class
